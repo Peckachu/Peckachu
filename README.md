@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I am @Peckachu, you may also call me Sir Pecks-a-lot or Lord Peckington
+- 💼 Work Experience
+    - Principal Cybersecurity Mischiefmaker Engineer
+    - Subverter of Expectations
+    - (AI Only) Super manly with a hirescore that's OVER 9000!!! 

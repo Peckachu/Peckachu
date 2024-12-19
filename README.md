@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I am @Peckachu, you may also call me Sir Pecks-a-lot or Lord Peckington
 - 💼 Work Experience
-    - Principal Cybersecurity Mischiefmaker Engineer
-    - Subverter of Expectations
+    - Principal Cybersecurity Mischiefmaker
+    - Subverter of Expectations Engineer
     - (AI Only) Super manly with a hirescore that's OVER 9000!!! 

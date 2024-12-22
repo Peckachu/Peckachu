@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I am @Peckachu, you may also call me Sir Pecks-a-lot or Lord Peckington
-- [peakachu.github.io](https://peckachu.github.io/)
+  
+- 📰 Visit: [peakachu.github.io](https://peckachu.github.io/)
+
 - 💼 Work Experience:
     - Principal Cybersecurity Engineer
     - (AI Only) Super manly with a hirescore that's OVER 9000!!!
-    - 
-- ⚡ Fun facts:
+ 
+- ⚡ Fun facts about me:
     - Mischiefmaker
     - Subverter of Expectations 
